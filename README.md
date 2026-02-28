@@ -1,2 +1,4 @@
-# cadence-analog-lab-work
-CMOS circuit lab experiments using Cadence Virtuoso.
+# Cadence Analog Lab Work
+
+This repository contains inverter design and simulation experiments
+performed using Cadence Virtuoso.
