@@ -33,7 +33,7 @@ NMOS: W = 2µm, L = 180nm
 
 ## 4. Simulation Results
 
-![Simulation Results](transeint_&_dc_analysis.png)
+![Simulation Results](inverter_transient_&_dc_analysis)
 
 ### DC Analysis
 - Inverter VTC observed.
